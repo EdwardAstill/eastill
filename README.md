@@ -15,7 +15,7 @@ with skills, modes, hooks, and subagents. Opinionated; built on experience.
 |---|---|---|
 | [`agentfiles`](https://github.com/EdwardAstill/agentfiles) | Main repo — skills, modes, hooks, `af` CLI, subagents | active |
 | [`yt-tool`](https://github.com/EdwardAstill/yt-tool) | One-stop YouTube CLI — transcripts, audio (MP3/WAV/...), video (MP4/MKV/WebM), summaries, channel/playlist listing, search, Textual TUI | active |
-| [`webscraper`](https://github.com/EdwardAstill/webscraper) | Pure-HTTP site scraping + inspection + fetch | *(planned)* |
+| [`webscraper`](https://github.com/EdwardAstill/webscraper) | Pure-HTTP site scraping + inspection + fetch | active |
 | [`termread`](https://github.com/EdwardAstill/termread) | Capture live terminal scrollback for an agent to read | active |
 | [`shotty`](https://github.com/EdwardAstill/shotty) | Browser screenshot helper — thin Playwright wrapper for agent visual verification | active |
 | [`gwt`](https://github.com/EdwardAstill/gwt) | Git worktree helper with port allocation + launch hooks | *(planned)* |
