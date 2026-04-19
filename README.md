@@ -19,7 +19,7 @@ with skills, modes, hooks, and subagents. Opinionated; built on experience.
 | [`termread`](https://github.com/EdwardAstill/termread) | Capture live terminal scrollback for an agent to read | active |
 | [`shotty`](https://github.com/EdwardAstill/shotty) | Screenshot + region-select helper (Hyprland/Wayland) | *(planned)* |
 | [`gwt`](https://github.com/EdwardAstill/gwt) | Git worktree helper with port allocation + launch hooks | *(planned)* |
-| [`secrets`](https://github.com/EdwardAstill/secrets) | Secrets/env management CLI | *(planned)* |
+| [`secrets`](https://github.com/EdwardAstill/secrets) | Secrets/env management CLI | active |
 
 ---
 
